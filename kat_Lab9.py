@@ -13,6 +13,7 @@ def decoder(password):
         result += new_digit
     return result
 
+#shirley - added the menu
 def menu():
     print("Menu")
     print("-------------")

@@ -1,3 +1,4 @@
+#Katarina Neal repository
 def encoder(message):
     result = ''
     for digit in message:
